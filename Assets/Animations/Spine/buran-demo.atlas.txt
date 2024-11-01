@@ -1,0 +1,568 @@
+
+buran-demo.png
+size: 2044,1983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doomer/arm-left
+  rotate: true
+  xy: 1527, 948
+  size: 364, 464
+  orig: 370, 476
+  offset: 1, 2
+  index: -1
+doomer/arm-right
+  rotate: true
+  xy: 730, 1348
+  size: 258, 442
+  orig: 262, 445
+  offset: 1, 1
+  index: -1
+doomer/axe
+  rotate: false
+  xy: 2, 71
+  size: 650, 531
+  orig: 652, 536
+  offset: 1, 3
+  index: -1
+doomer/axe-full
+  rotate: false
+  xy: 654, 2
+  size: 650, 531
+  orig: 652, 536
+  offset: 1, 3
+  index: -1
+doomer/body
+  rotate: true
+  xy: 947, 535
+  size: 425, 488
+  orig: 426, 501
+  offset: 1, 11
+  index: -1
+doomer/body1belt
+  rotate: false
+  xy: 1174, 1324
+  size: 418, 274
+  orig: 501, 282
+  offset: 25, 5
+  index: -1
+doomer/bootleft
+  rotate: false
+  xy: 446, 1833
+  size: 193, 148
+  orig: 195, 151
+  offset: 1, 1
+  index: -1
+doomer/bootright
+  rotate: false
+  xy: 219, 1850
+  size: 225, 131
+  orig: 229, 136
+  offset: 4, 0
+  index: -1
+doomer/bootside
+  rotate: false
+  xy: 641, 1832
+  size: 230, 149
+  orig: 231, 166
+  offset: 1, 6
+  index: -1
+doomer/eye-main
+  rotate: false
+  xy: 93, 1937
+  size: 47, 44
+  orig: 59, 59
+  offset: 11, 5
+  index: -1
+doomer/eye-mask
+  rotate: false
+  xy: 2, 1955
+  size: 56, 26
+  orig: 68, 38
+  offset: 6, 6
+  index: -1
+doomer/eye-zra4k
+  rotate: false
+  xy: 60, 1950
+  size: 31, 31
+  orig: 59, 59
+  offset: 17, 11
+  index: -1
+doomer/gun
+  rotate: false
+  xy: 256, 1403
+  size: 472, 253
+  orig: 500, 280
+  offset: 12, 20
+  index: -1
+doomer/hand left1
+  rotate: true
+  xy: 1568, 1600
+  size: 217, 252
+  orig: 224, 264
+  offset: 4, 6
+  index: -1
+doomer/hand right
+  rotate: true
+  xy: 836, 1614
+  size: 204, 243
+  orig: 206, 247
+  offset: 1, 3
+  index: -1
+doomer/hand right - gun
+  rotate: false
+  xy: 2, 699
+  size: 457, 384
+  orig: 469, 398
+  offset: 3, 6
+  index: -1
+doomer/hand right - gun - Copy
+  rotate: false
+  xy: 1064, 962
+  size: 461, 360
+  orig: 469, 398
+  offset: 0, 6
+  index: -1
+doomer/hand right2
+  rotate: true
+  xy: 1325, 1606
+  size: 212, 241
+  orig: 221, 247
+  offset: 4, 3
+  index: -1
+doomer/hand right3
+  rotate: true
+  xy: 1081, 1608
+  size: 210, 242
+  orig: 221, 247
+  offset: 4, 2
+  index: -1
+doomer/hand-left
+  rotate: true
+  xy: 2, 1430
+  size: 229, 252
+  orig: 233, 256
+  offset: 1, 2
+  index: -1
+doomer/hand-left-axe
+  rotate: true
+  xy: 1437, 334
+  size: 612, 605
+  orig: 632, 622
+  offset: 9, 12
+  index: -1
+doomer/hand-left-open
+  rotate: true
+  xy: 1594, 1314
+  size: 284, 334
+  orig: 293, 340
+  offset: 4, 1
+  index: -1
+doomer/hand-right-open
+  rotate: true
+  xy: 2, 1117
+  size: 284, 333
+  orig: 318, 340
+  offset: 5, 1
+  index: -1
+doomer/head
+  rotate: true
+  xy: 337, 1085
+  size: 316, 384
+  orig: 318, 386
+  offset: 1, 1
+  index: -1
+doomer/jaw
+  rotate: true
+  xy: 723, 1027
+  size: 319, 339
+  orig: 320, 344
+  offset: 0, 1
+  index: -1
+doomer/jawback
+  rotate: true
+  xy: 168, 1661
+  size: 170, 334
+  orig: 172, 336
+  offset: 1, 1
+  index: -1
+doomer/kobura
+  rotate: false
+  xy: 873, 1820
+  size: 419, 161
+  orig: 419, 235
+  offset: 0, 37
+  index: -1
+doomer/kobura1
+  rotate: false
+  xy: 1294, 1820
+  size: 312, 161
+  orig: 419, 235
+  offset: 107, 37
+  index: -1
+doomer/pants-bot right
+  rotate: true
+  xy: 504, 1658
+  size: 172, 330
+  orig: 177, 339
+  offset: 4, 2
+  index: -1
+doomer/pants-left
+  rotate: true
+  xy: 1608, 1819
+  size: 162, 292
+  orig: 167, 302
+  offset: 2, 7
+  index: -1
+doomer/pants-left1
+  rotate: true
+  xy: 142, 1918
+  size: 63, 75
+  orig: 167, 302
+  offset: 2, 21
+  index: -1
+doomer/pants-top
+  rotate: true
+  xy: 2, 1684
+  size: 232, 164
+  orig: 252, 166
+  offset: 12, 1
+  index: -1
+doomer/skull
+  rotate: true
+  xy: 461, 604
+  size: 421, 484
+  orig: 426, 491
+  offset: 1, 5
+  index: -1
+
+buran-demo2.png
+size: 631,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doomer/hand-left-axe - Copy
+  rotate: false
+  xy: 2, 2
+  size: 627, 628
+  orig: 645, 661
+  offset: 7, 12
+  index: -1
+
+buran-demo3.png
+size: 1280,1147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doomer/gunshot/shot1
+  rotate: false
+  xy: 2, 612
+  size: 844, 533
+  orig: 1030, 617
+  offset: 39, 41
+  index: -1
+doomer/gunshot/shot2
+  rotate: false
+  xy: 2, 2
+  size: 693, 608
+  orig: 750, 623
+  offset: 55, 4
+  index: -1
+doomer/gunshot/shot3
+  rotate: true
+  xy: 848, 417
+  size: 728, 430
+  orig: 1100, 623
+  offset: 148, 84
+  index: -1
+doomer/gunshot/shot4
+  rotate: false
+  xy: 697, 74
+  size: 318, 341
+  orig: 649, 612
+  offset: 195, 138
+  index: -1
+
+buran-demo4.png
+size: 1973,1910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/arm-left
+  rotate: true
+  xy: 1409, 822
+  size: 359, 469
+  orig: 370, 476
+  offset: 1, 1
+  index: -1
+normal/arm-right
+  rotate: true
+  xy: 423, 1317
+  size: 259, 444
+  orig: 262, 445
+  offset: 0, 0
+  index: -1
+normal/axe
+  rotate: false
+  xy: 2, 2
+  size: 652, 536
+  orig: 652, 536
+  offset: 0, 0
+  index: -1
+normal/body
+  rotate: true
+  xy: 941, 394
+  size: 426, 488
+  orig: 426, 501
+  offset: 0, 11
+  index: -1
+normal/body1belt
+  rotate: false
+  xy: 869, 1232
+  size: 418, 274
+  orig: 501, 282
+  offset: 25, 5
+  index: -1
+normal/bootleft
+  rotate: false
+  xy: 758, 1757
+  size: 195, 151
+  orig: 195, 151
+  offset: 0, 0
+  index: -1
+normal/bootright
+  rotate: false
+  xy: 295, 1772
+  size: 229, 136
+  orig: 229, 136
+  offset: 0, 0
+  index: -1
+normal/bootside
+  rotate: false
+  xy: 955, 1755
+  size: 231, 153
+  orig: 231, 166
+  offset: 0, 5
+  index: -1
+normal/bootside - top
+  rotate: false
+  xy: 526, 1759
+  size: 230, 149
+  orig: 231, 166
+  offset: 1, 6
+  index: -1
+normal/eye-main
+  rotate: false
+  xy: 72, 1849
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+normal/eye-mask
+  rotate: false
+  xy: 2, 1878
+  size: 68, 30
+  orig: 68, 38
+  offset: 0, 8
+  index: -1
+normal/eye-zra4k
+  rotate: false
+  xy: 133, 1849
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+normal/gun
+  rotate: false
+  xy: 1289, 1183
+  size: 500, 280
+  orig: 500, 280
+  offset: 0, 0
+  index: -1
+normal/hand left1
+  rotate: true
+  xy: 926, 1532
+  size: 221, 254
+  orig: 224, 264
+  offset: 3, 5
+  index: -1
+normal/hand right
+  rotate: true
+  xy: 1727, 1702
+  size: 206, 244
+  orig: 206, 247
+  offset: 0, 2
+  index: -1
+normal/hand right - gun
+  rotate: false
+  xy: 470, 540
+  size: 469, 392
+  orig: 469, 398
+  offset: 0, 0
+  index: -1
+normal/hand right - gun - Copy
+  rotate: false
+  xy: 2, 658
+  size: 466, 365
+  orig: 469, 398
+  offset: 3, 1
+  index: -1
+normal/hand right3
+  rotate: true
+  xy: 2, 1607
+  size: 212, 244
+  orig: 221, 247
+  offset: 4, 0
+  index: -1
+normal/hand-left
+  rotate: true
+  xy: 1182, 1508
+  size: 232, 255
+  orig: 233, 256
+  offset: 0, 1
+  index: -1
+normal/hand-left-open
+  rotate: true
+  xy: 2, 1061
+  size: 285, 336
+  orig: 293, 340
+  offset: 2, 0
+  index: -1
+normal/hand-right-open
+  rotate: true
+  xy: 728, 934
+  size: 296, 335
+  orig: 318, 340
+  offset: 1, 0
+  index: -1
+normal/head
+  rotate: true
+  xy: 340, 1025
+  size: 290, 386
+  orig: 318, 386
+  offset: 28, 0
+  index: -1
+normal/jaw
+  rotate: true
+  xy: 1065, 861
+  size: 320, 342
+  orig: 320, 344
+  offset: 0, 2
+  index: -1
+normal/jawback
+  rotate: true
+  xy: 248, 1585
+  size: 172, 336
+  orig: 172, 336
+  offset: 0, 0
+  index: -1
+normal/kobura
+  rotate: false
+  xy: 1439, 1465
+  size: 419, 235
+  orig: 419, 235
+  offset: 0, 0
+  index: -1
+normal/kobura1
+  rotate: false
+  xy: 2, 1348
+  size: 419, 235
+  orig: 419, 235
+  offset: 0, 0
+  index: -1
+normal/pants-bot right
+  rotate: true
+  xy: 586, 1578
+  size: 177, 338
+  orig: 177, 339
+  offset: 0, 0
+  index: -1
+normal/pants-left
+  rotate: true
+  xy: 1428, 1742
+  size: 166, 297
+  orig: 167, 302
+  offset: 0, 1
+  index: -1
+normal/pants-left1
+  rotate: true
+  xy: 194, 1821
+  size: 87, 99
+  orig: 167, 302
+  offset: 0, 20
+  index: -1
+normal/pants-top
+  rotate: false
+  xy: 1188, 1744
+  size: 238, 164
+  orig: 252, 166
+  offset: 9, 0
+  index: -1
+normal/skull
+  rotate: true
+  xy: 1431, 394
+  size: 426, 491
+  orig: 426, 491
+  offset: 0, 0
+  index: -1
+
+buran-demo5.png
+size: 1786,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/axe-full
+  rotate: true
+  xy: 1248, 2
+  size: 652, 536
+  orig: 652, 536
+  offset: 0, 0
+  index: -1
+normal/hand-left-axe
+  rotate: true
+  xy: 639, 34
+  size: 620, 607
+  orig: 632, 622
+  offset: 4, 13
+  index: -1
+normal/hand-left-axe - Copy
+  rotate: false
+  xy: 2, 12
+  size: 635, 642
+  orig: 645, 661
+  offset: 0, 9
+  index: -1
+
+buran-demo6.png
+size: 1280,1147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+normal/gunshot/shot1
+  rotate: false
+  xy: 2, 612
+  size: 844, 533
+  orig: 1030, 617
+  offset: 39, 41
+  index: -1
+normal/gunshot/shot2
+  rotate: false
+  xy: 2, 2
+  size: 693, 608
+  orig: 750, 623
+  offset: 55, 4
+  index: -1
+normal/gunshot/shot3
+  rotate: true
+  xy: 848, 417
+  size: 728, 430
+  orig: 1100, 623
+  offset: 148, 84
+  index: -1
+normal/gunshot/shot4
+  rotate: false
+  xy: 697, 74
+  size: 318, 341
+  orig: 649, 612
+  offset: 195, 138
+  index: -1

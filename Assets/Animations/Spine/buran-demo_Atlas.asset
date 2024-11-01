@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: buran-demo_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: b73aaaa196a6ed14a94082beb32151e3, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 0453c64db61a1394eb075b98a3ee4d3f, type: 2}
+  - {fileID: 2100000, guid: a42b03fc2caddc441b3f4d4e69e81649, type: 2}
+  - {fileID: 2100000, guid: 6cfd337c872f7d94cbcd61feebcaaba4, type: 2}
+  - {fileID: 2100000, guid: bbde7ac465ba62541af45041b265d670, type: 2}
+  - {fileID: 2100000, guid: 126861c7c853c904796eb7f091b84db6, type: 2}
+  - {fileID: 2100000, guid: 498fc545e0327064d8536b1bf051f81e, type: 2}
