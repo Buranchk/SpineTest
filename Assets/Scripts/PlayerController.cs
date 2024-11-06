@@ -141,13 +141,5 @@ public class PlayerController : MonoBehaviour
                 trackEntry.Complete += (TrackEntry trackEntry) => { axeOut = true; charInvState = CharacterInventoryState.None; };
             }
         }
-
-
-
-
-
     }
-
-
-
 }
